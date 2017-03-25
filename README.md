@@ -37,6 +37,8 @@ You man now import xbp_SpringBootBareBonesCamelMicroService into your IDE.
 
 _documented at https://wp.me/p7HAYH-5R, with further docs at NOTES.md_
 
+UPDATE MARCH 2017: This example has been reworked to make autowiring work. Please see NOTES.md for more info.
+
 ---
 
 ### For More Information:
